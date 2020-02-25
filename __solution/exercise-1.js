@@ -28,4 +28,9 @@ function getIssPosition() {
         .catch(err => console.log('Error: ', err));
 }
 
+<<<<<<< Updated upstream
 getIssPosition();
+=======
+// psst.... don't forget to call the function
+console.log(getIssPosition());
+>>>>>>> Stashed changes
