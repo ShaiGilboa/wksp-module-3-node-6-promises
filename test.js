@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+const reqRes = require('request-promise');
 
 const questions = [
     {
